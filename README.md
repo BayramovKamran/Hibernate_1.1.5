@@ -51,3 +51,4 @@ JDBC - https://o7planning.org/ru/10167/java-jdbc-tutorial <br /> <br />
 3. Получение всех User из базы и вывод в консоль ( должен быть переопределен toString в классе User)
 4. Очистка таблицы User(ов)
 5. Удаление таблицы
+# test
