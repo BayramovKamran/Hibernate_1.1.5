@@ -53,3 +53,4 @@ JDBC - https://o7planning.org/ru/10167/java-jdbc-tutorial <br /> <br />
 5. Удаление таблицы
 # test
 # test2
+# test2
