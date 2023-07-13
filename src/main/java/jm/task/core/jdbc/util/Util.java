@@ -60,7 +60,7 @@ public class Util {
     private static Connection conn = null;
     private static Util instance = null;
 
-    private Util() {
+    public Util() {
         try {
             if (null == conn || conn.isClosed()) {
                 Properties props = getProps();
