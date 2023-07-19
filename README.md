@@ -58,3 +58,4 @@ JDBC - https://o7planning.org/ru/10167/java-jdbc-tutorial <br /> <br />
 # test3
 # test4
 # test
+# Hibernate_1.1.5
