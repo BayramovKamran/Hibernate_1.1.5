@@ -14,16 +14,6 @@ public class Util {
     private static final String PASSWORD = "lampard10101992";
     private static SessionFactory factory;
 
-    public static Connection getConnection() {
-        Connection conn = null;
-        try {
-            conn = DriverManager.getConnection(URL, USERNAME, PASSWORD);
-        } catch (SQLException e) {
-            e.printStackTrace();
-            System.out.println("Connection error");
-        }
-        return conn;
-    }
 
     public static SessionFactory getSessionFactory() {
         if (factory == null) {
